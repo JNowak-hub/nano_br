@@ -1,4 +1,4 @@
-/gun/particle neutron
+/gun/particle proton
 /gun/energy 10 MeV
 /gun/position 0 0 -100 mm
 /tracking/verbose 0
